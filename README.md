@@ -6,3 +6,5 @@ Class to control Agiltron 4 head UV.
 Only UV1 output is controlled and only on off an connection status code is applicable. 
 The print of the code is 0 for statement false, 1 for statement true, ex. "uv turned on: 1" means uv is turned on
 
+The datasheet is also given for other commands. They can be implemented the same way with the others. 
+
