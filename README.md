@@ -1,2 +1,2 @@
-# agiltronUV
-The library to control 4 head uv light, minimal &amp; simple
+# agiltron UV
+The library to control 4 head uv light by agiltron, minimal &amp; simple
